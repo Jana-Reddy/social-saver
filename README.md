@@ -10,6 +10,16 @@
 
 > *If the video doesn't play automatically, download `walkthrough.webp` or view it in a compatible browser.*
 
+## 📸 Implementation Screenshots
+
+Here's a look at the beautifully designed, fully responsive user interface:
+
+| Dashboard Grid & Real-time AI Parsing | Intelligent Social Media Categorization |
+| :---: | :---: |
+| ![Full Dashboard](assets/dashboard.png) | ![Instagram Native Parsing](assets/instagram_parsing.png) |
+| **Glassmorphism Delete Confirmation Flow** | **Fluid Masonry Layout Architecture** |
+| ![Custom Modal Deletion](assets/delete_modal.png) | ![Bottom Scroll Architecture](assets/masonry_grid.png) |
+
 ---
 
 ## 🔗 Submission Links
