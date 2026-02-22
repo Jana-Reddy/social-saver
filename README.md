@@ -24,7 +24,7 @@ Here's a look at the beautifully designed, fully responsive user interface:
 
 ## 🔗 Submission Links
 
-- **GitHub Repository**: [YOUR_GITHUB_REPO_LINK_HERE]
+- **GitHub Repository**: https://github.com/Jana-Reddy/social-saver
 
 ---
 
