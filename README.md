@@ -4,11 +4,6 @@
 
 ---
 
-## � Walkthrough Video
-
-![Project Walkthrough](./walkthrough.webp)
-
-> *If the video doesn't play automatically, download `walkthrough.webp` or view it in a compatible browser.*
 
 ## 📸 Implementation Screenshots
 
